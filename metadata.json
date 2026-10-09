@@ -1,0 +1,6 @@
+{
+  "name": "ResQMesh - Cloud-Edge Emergency Mesh System",
+  "description": "Cloud-Edge Emergency Communication System for Internet-Independent Disaster Response with offline mesh networking, edge prioritization, and cloud synchronization.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
